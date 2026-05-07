@@ -1,0 +1,23 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "Standard",
+  "difficulty" : "ExpertPlus",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 0,
+      "label" : "Very start",
+      "text" : "Very start"
+    },
+    {
+      "beat" : 6,
+      "label" : "Actual start",
+      "text" : "Actual start"
+    },
+    {
+      "beat" : 70,
+      "label" : "Some guitar",
+      "text" : "Some guitar"
+    }
+  ]
+}
