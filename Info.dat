@@ -1,0 +1,50 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "Entre Dos Aguas",
+    "subTitle" : "2014 remaster",
+    "author" : "Paco de Lucía"
+  },
+  "audio" : {
+    "songFilename" : "song.ogg",
+    "songDuration" : 361.443,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 211,
+    "lufs" : 0,
+    "previewStartTime" : 142.5,
+    "previewDuration" : 16
+  },
+  "songPreviewFilename" : "song.ogg",
+  "coverImageFilename" : "cover.jpg",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 17,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertPlusStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
