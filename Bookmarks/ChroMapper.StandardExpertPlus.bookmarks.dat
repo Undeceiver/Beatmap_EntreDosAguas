@@ -15,6 +15,11 @@
       "text" : "Actual start"
     },
     {
+      "beat" : 38,
+      "label" : "Here we go",
+      "text" : "Here we go"
+    },
+    {
       "beat" : 70,
       "label" : "Tutituta",
       "text" : "Tutituta"
