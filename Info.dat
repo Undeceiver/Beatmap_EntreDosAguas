@@ -2,16 +2,16 @@
   "version" : "4.0.1",
   "song" : {
     "title" : "Entre Dos Aguas",
-    "subTitle" : "2014 remaster",
+    "subTitle" : "2014 remaster (no intro)",
     "author" : "Paco de Lucía"
   },
   "audio" : {
     "songFilename" : "song.ogg",
-    "songDuration" : 361.443,
+    "songDuration" : 217.571,
     "audioDataFilename" : "AudioData.dat",
     "bpm" : 211,
     "lufs" : 0,
-    "previewStartTime" : 142.5,
+    "previewStartTime" : 1,
     "previewDuration" : 16
   },
   "songPreviewFilename" : "song.ogg",

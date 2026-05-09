@@ -16,8 +16,53 @@
     },
     {
       "beat" : 70,
-      "label" : "Some guitar",
-      "text" : "Some guitar"
+      "label" : "Tutituta",
+      "text" : "Tutituta"
+    },
+    {
+      "beat" : 167,
+      "label" : "Tutitutatitutatutitutatutatuta",
+      "text" : "Tutitutatitutatutitutatutatuta"
+    },
+    {
+      "beat" : 263,
+      "label" : "I lost a beat somewhere (:",
+      "text" : "I lost a beat somewhere (:"
+    },
+    {
+      "beat" : 295,
+      "label" : "BOOM",
+      "text" : "BOOM"
+    },
+    {
+      "beat" : 359,
+      "label" : "Chilling",
+      "text" : "Chilling"
+    },
+    {
+      "beat" : 392,
+      "label" : "BAM",
+      "text" : "BAM"
+    },
+    {
+      "beat" : 497,
+      "label" : "Tun",
+      "text" : "Tun"
+    },
+    {
+      "beat" : 583,
+      "label" : "Tantatan",
+      "text" : "Tantatan"
+    },
+    {
+      "beat" : 613,
+      "label" : "Here we go again",
+      "text" : "Here we go again"
+    },
+    {
+      "beat" : 649,
+      "label" : "Tiroriroriro",
+      "text" : "Tiroriroriro"
     }
   ]
 }
