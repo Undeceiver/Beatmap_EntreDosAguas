@@ -17,7 +17,7 @@
   "songPreviewFilename" : "song.ogg",
   "coverImageFilename" : "cover.jpg",
   "environmentNames" : [
-    "DefaultEnvironment"
+    "WeaveEnvironment"
   ],
   "colorSchemes" : [
   ],
@@ -27,19 +27,38 @@
       "difficulty" : "ExpertPlus",
       "beatmapAuthors" : {
         "mappers" : [
+          "Undeceiver"
         ],
         "lighters" : [
+          "Undeceiver"
         ]
       },
       "environmentNameIdx" : 0,
       "beatmapColorSchemeIdx" : 0,
       "noteJumpMovementSpeed" : 17,
-      "noteJumpStartBeatOffset" : 0,
+      "noteJumpStartBeatOffset" : 0.001,
       "beatmapDataFilename" : "ExpertPlusStandard.dat",
       "lightshowDataFilename" : "Lightshow.dat"
     }
   ],
   "customData" : {
+    "contributors" : [
+      {
+        "name" : "Sehria_K",
+        "role" : "Testplayer",
+        "iconPath" : ""
+      },
+      {
+        "name" : "Serephor",
+        "role" : "Testplayer",
+        "iconPath" : ""
+      },
+      {
+        "name" : "symphonic",
+        "role" : "Testplayer",
+        "iconPath" : ""
+      }
+    ],
     "editors" : {
       "lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
