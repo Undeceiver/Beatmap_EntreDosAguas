@@ -24,6 +24,24 @@
   "difficultyBeatmaps" : [
     {
       "characteristic" : "Standard",
+      "difficulty" : "Expert",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "Undeceiver"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 17,
+      "noteJumpStartBeatOffset" : 0.001,
+      "beatmapDataFilename" : "ExpertStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    },
+    {
+      "characteristic" : "Standard",
       "difficulty" : "ExpertPlus",
       "beatmapAuthors" : {
         "mappers" : [

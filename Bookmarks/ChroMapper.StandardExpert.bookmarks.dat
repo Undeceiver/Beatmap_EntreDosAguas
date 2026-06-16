@@ -1,0 +1,83 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "Standard",
+  "difficulty" : "Expert",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 0,
+      "label" : "Very start",
+      "text" : "Very start"
+    },
+    {
+      "beat" : 6,
+      "label" : "Actual start",
+      "text" : "Actual start"
+    },
+    {
+      "beat" : 38,
+      "label" : "Here we go",
+      "text" : "Here we go"
+    },
+    {
+      "beat" : 70,
+      "label" : "Tutituta",
+      "text" : "Tutituta"
+    },
+    {
+      "beat" : 167,
+      "label" : "Tutitutatitutatutitutatutatuta",
+      "text" : "Tutitutatitutatutitutatutatuta"
+    },
+    {
+      "beat" : 199,
+      "label" : "Turiruriraaa",
+      "text" : "Turiruriraaa"
+    },
+    {
+      "beat" : 263,
+      "label" : "I lost a beat somewhere (:",
+      "text" : "I lost a beat somewhere (:"
+    },
+    {
+      "beat" : 295,
+      "label" : "BOOM",
+      "text" : "BOOM"
+    },
+    {
+      "beat" : 359,
+      "label" : "Chilling",
+      "text" : "Chilling"
+    },
+    {
+      "beat" : 392,
+      "label" : "BAM",
+      "text" : "BAM"
+    },
+    {
+      "beat" : 425,
+      "label" : "Tu-riraro-riraro",
+      "text" : "Tu-riraro-riraro"
+    },
+    {
+      "beat" : 497,
+      "label" : "Tun",
+      "text" : "Tun"
+    },
+    {
+      "beat" : 583,
+      "label" : "Tantatan",
+      "text" : "Tantatan"
+    },
+    {
+      "beat" : 613,
+      "label" : "Here we go again",
+      "text" : "Here we go again"
+    },
+    {
+      "beat" : 649,
+      "label" : "Tiroriroriro",
+      "text" : "Tiroriroriro"
+    }
+  ]
+}
